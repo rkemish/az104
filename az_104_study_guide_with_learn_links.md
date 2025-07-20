@@ -13,12 +13,6 @@
 | Monitoring & Maintenance | Azure Monitor, metrics/logs, alerts, backup, update mgmt | Monitor Overview: https://learn.microsoft.com/azure/azure-monitor/overview |
 | Governance & Cost | Policy, Blueprints transition (Deployment Stacks), Cost mgmt | Policy Overview: https://learn.microsoft.com/azure/governance/policy/overview • Cost Mgmt: https://learn.microsoft.com/azure/cost-management-billing/cost-management-billing-overview |
 
-**Suggested 4–5 Week Plan:**
-- Week 1: Identity & Governance
-- Week 2: Storage + Compute Fundamentals
-- Week 3: Virtual Networking + Hybrid Connectivity
-- Week 4: Monitoring, Backup/Recovery, Automation, Cost
-- Week 5: Mixed Scenario Labs, Optimization, Practice Exam & Review
 
 ---
 ## 1. Manage Azure Identities & Governance
