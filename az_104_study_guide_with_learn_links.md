@@ -1,7 +1,5 @@
 # AZ-104: Microsoft Azure Administrator – In-Depth Self‑Study Guide (Intermediate)
 
-> **Policy:** All hyperlinks point only to free **Microsoft Learn / Microsoft Docs** content. Verify the live AZ‑104 skills outline before scheduling (weights can change). Structured in the *same style* as the AZ‑500 guide for continuity.
-
 ---
 ## 0. Study Strategy & Mindset
 **Goal:** Operational mastery of core Azure administration (identity, governance, storage, compute, networking, monitoring) with hands-on proficiency and troubleshooting clarity.
@@ -331,6 +329,4 @@ Right-sizing VMs, reserved instances / savings plans, auto-shutdown dev/test, st
 5. Final day: review checklist; rest & maintain clarity.
 
 **Success Metric:** You can state *what* to deploy, *why* it solves the requirement, and *how* to implement/verify – from memory.
-
-Good luck – transform this reference into demonstrable operational skill!
 
